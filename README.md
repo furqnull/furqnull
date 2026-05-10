@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+### 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+### 📊 GitHub Stats:
+[![GitHub Streak](https://streak-stats.demolab.com?user=furqnull&theme=dark)](https://git.io/streak-stats)
+### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=furqnull&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **furqnull/furqnull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
